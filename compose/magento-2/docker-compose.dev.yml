@@ -1,4 +1,4 @@
-# Mark Shust's Docker Configuration for Magento (https://github.com/markshust/docker-magento)
+# Mark Shust's Docker Configuration for Magento (https://github.com/oronoa/docker-magento)
 # Version 23.2.3
 
 version: "3"
